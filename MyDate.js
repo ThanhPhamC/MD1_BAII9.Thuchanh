@@ -7,6 +7,7 @@ class MyDate {
         this.day = day;
         this.mon = mon;
         this.year = year;
+
     }
     setDay(day){
         this.day=day
